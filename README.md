@@ -1,4 +1,4 @@
-## **2. Data Collection**
+## ** Data Collection**
 
 The dataset has been obtained from Grouplens.
 
